@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Armando Salcedo</h1>
+<h1 align="center">Hello there 👋, I'm Armando Salcedo</h1>
 <p align="center">🧑‍💻 Software Engineer | +2 years bridging front and back for scalable products</p>
 
 ---
